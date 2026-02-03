@@ -1,2 +1,2 @@
-# PowerBI_projects
+# PowerBI_Projects
 Small Power BI Projects
