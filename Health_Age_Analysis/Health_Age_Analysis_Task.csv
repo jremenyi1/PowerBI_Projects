@@ -1,0 +1,421 @@
+AgeGroup,Region,Gender,HealthStatus,Year,Count
+65,North,Male,Average,2023,238
+25-34,North,Male,Very Bad,2024,42
+18-24,North,Female,Good,2025,626
+18-24,South,FEMALE,Good,2024,613
+35-44,North,Female,Bad,2024,294
+25-34,South,male,Very Good,2023,399
+18-24,East,male,Very Bad,2024,836
+18-24,West,Male,Bad,2023,575
+35-44,East,Female,Very Good,2023,687
+25-34,East,Male,Good,2023,399
+35-44,West,male,Good,2024,373
+25-34,,Male,Very Bad,2025,185
+55-64,South,Female,Bad,2024,286
+65,South,male,Very Good,2023,851
+18-24,East,FEMALE,Average,2023,226
+55-64,East,Female,Bad,2024,915
+65,West,Female,Average,2023,262
+65,East,FEMALE,Very Bad,2024,380
+25-34,South,FEMALE,Very Good,2023,891
+18-24,South,Female,Bad,2025,75
+45-54,West,FEMALE,Very Bad,2024,576
+18-24,North,male,Average,2023,310
+45-54,South,FEMALE,Very Good,2025,906
+65,East,Female,Very Bad,2023,901
+65,East,Female,Good,2024,790
+25-34,North,male,Bad,2023,124
+35-44,East,Female,Very Good,2023,909
+55-64,North,Male,Bad,2023,788
+55-64,,Female,Bad,2025,179
+35-44,,Female,Very Bad,2025,716
+25-34,East,FEMALE,Average,2024,931
+55-64,West,Male,Good,2023,75
+35-44,North,Female,Very Bad,2023,17
+18-24,North,Female,Very Good,2023,890
+35-44,North,Female,Average,2025,507
+25-34,South,FEMALE,Good,2024,836
+45-54,South,Male,Very Good,2025,451
+35-44,West,FEMALE,Bad,2025,65
+65,North,Male,Bad,2025,357
+18-24,South,Female,Good,2025,469 units
+25-34,West,Female,Average,2024,265
+18-24,West,Male,Very Good,2025,563 units
+18-24,North,Female,Good,2024,507
+45-54,South,FEMALE,Very Good,2023,398
+18-24,West,male,Bad,2024,443
+65,West,Female,Good,2024,232
+18-24,North,male,Very Good,2023,608
+45-54,South,Male,Very Bad,2023,881
+25-34,North,Male,Good,2024,132
+55-64,South,Male,Very Bad,2023,439
+65,East,male,Good,2025,743
+35-44,South,male,Bad,2023,697
+65,East,FEMALE,Average,2023,19
+45-54,North,Male,Very Bad,2023,528
+35-44,South,male,Very Good,2023,388
+35-44,South,FEMALE,Very Bad,2025,319
+55-64,North,male,Very Good,2023,280
+18-24,North,Female,Average,2024,629
+25-34,East,Female,Average,2025,510
+35-44,North,Male,Bad,2024,55
+18-24,,,Average,2023,769
+45-54,West,Male,Very Good,2023,977
+65,South,Male,Average,2025,575
+25-34,West,Female,Very Good,2024,383
+18-24,East,Female,Good,2025,115
+35-44,West,Female,Good,2023,829
+25-34,West,Male,Good,2025,956
+35-44,,Female,Average,2023,816
+65,North,,Very Good,2024,237
+25-34,West,male,Average,2023,238
+18-24,South,FEMALE,Average,2024,895
+18-24,East,male,Very Bad,2024,705
+55-64,East,Male,Very Good,2024,192
+55-64,East,Male,Very Good,2025,454
+35-44,East,FEMALE,Very Bad,2025,128
+45-54,South,male,Very Good,2025,456
+18-24,South,male,Bad,2023,981
+65,East,male,Very Good,2025,931
+35-44,East,FEMALE,,2024,723
+35-44,South,Female,Bad,2025,972
+45-54,South,male,Bad,2025,863
+18-24,,male,Good,2024,814
+55-64,East,FEMALE,Bad,2024,701
+25-34,West,Female,Very Good,2024,537
+65,East,Male,Good,2025,327
+25-34,South,Female,Very Good,2023,260
+45-54,North,FEMALE,Bad,2025,599
+25-34,West,FEMALE,Bad,2023,161
+65,North,Male,Bad,2023,190
+65,West,Male,Very Bad,2023,949
+18-24,West,Female,Bad,2025,553
+55-64,East,FEMALE,Very Bad,2025,923
+55-64,West,FEMALE,Good,2025,892
+45-54,West,male,Good,2025,293
+55-64,West,Female,Average,2024,89
+65,East,Female,Average,2024,337
+55-64,North,Female,Good,2023,402
+65,South,Female,Very Good,2024,427
+35-44,West,FEMALE,Very Good,2023,862
+45-54,West,Male,Very Bad,2024,498
+18-24,East,male,Bad,2024,561
+65,South,FEMALE,Good,2024,456
+45-54,North,FEMALE,Average,2025,705
+45-54,South,FEMALE,Good,2025,556
+18-24,West,Male,Very Good,2025,448
+25-34,West,Female,Very Good,2024,398
+35-44,South,FEMALE,Average,2024,789
+45-54,East,FEMALE,Average,2023,491
+18-24,North,male,Good,2025,80
+65,North,Male,Good,2023,869
+18-24,South,Female,Good,2024,695
+18-24,South,FEMALE,Average,2024,181 units
+55-64,North,,Average,2023,602
+18-24,East,,Bad,2025,213
+18-24,South,Male,Average,2025,624
+18-24,North,male,Very Bad,2024,687
+35-44,North,male,Very Good,2024,852
+45-54,North,FEMALE,Average,2025,922
+45-54,South,FEMALE,Good,2025,544
+65,East,FEMALE,Bad,2024,855
+65,East,male,Good,2023,295
+45-54,South,FEMALE,Very Bad,2025,694
+45-54,East,Male,Bad,2024,196
+45-54,South,male,Average,2024,296
+55-64,East,Male,Very Bad,2023,97
+25-34,West,FEMALE,Very Bad,2023,717
+45-54,West,FEMALE,Very Good,2023,311 units
+25-34,West,Female,Average,2025,605
+35-44,West,male,Bad,2025,573
+35-44,East,FEMALE,Average,2024,267
+25-34,,Female,Average,2023,770
+55-64,South,Female,Good,2025,505
+35-44,East,Male,Good,2024,242
+35-44,South,male,Very Good,2025,556
+25-34,East,Male,Very Good,2025,309
+65,South,FEMALE,Very Good,2023,597
+35-44,West,FEMALE,Bad,2024,198
+18-24,East,FEMALE,Very Good,2023,420
+45-54,North,Male,Good,2023,840
+55-64,East,Male,Good,2023,581
+45-54,South,FEMALE,Bad,2024,314
+55-64,West,male,Very Bad,2025,71
+55-64,North,Female,Good,2024,686
+18-24,South,Female,Good,2025,86
+25-34,North,FEMALE,Bad,2025,618
+45-54,East,Male,Good,2024,733
+35-44,West,Male,Good,2024,816
+65,South,FEMALE,Very Good,2025,240
+65,South,male,Good,2023,71
+25-34,East,male,Bad,2023,489
+65,East,FEMALE,Average,2025,562
+45-54,West,,Very Bad,2023,920
+45-54,East,male,Very Good,2023,244
+65,North,male,Very Bad,2023,791
+25-34,West,FEMALE,Average,2023,609
+45-54,West,Male,Bad,2024,428
+35-44,East,Male,Good,2024,431
+65,,male,Bad,2025,47
+45-54,North,male,Average,2024,128
+45-54,,FEMALE,Bad,2023,202
+55-64,East,FEMALE,Bad,2023,218
+35-44,South,male,Bad,2025,506
+18-24,North,Female,Good,2024,574
+18-24,West,Male,Good,2023,482
+18-24,South,FEMALE,Average,2025,732
+35-44,West,FEMALE,Bad,2023,477
+55-64,South,FEMALE,Good,2025,530
+65,South,Male,Average,2024,358
+55-64,East,Male,Average,2025,315
+55-64,West,Female,Bad,2025,505
+35-44,East,FEMALE,Bad,2024,900
+25-34,South,FEMALE,Good,2024,54
+35-44,West,FEMALE,Bad,2025,821
+65,South,FEMALE,Very Good,2023,524
+55-64,East,Male,Bad,2023,548
+45-54,North,Female,Bad,2025,168
+18-24,West,male,Average,2025,719
+45-54,North,male,Very Bad,2024,987
+35-44,West,Male,Very Bad,2023,250
+65,East,Female,Very Good,2024,110
+65,North,FEMALE,Good,2025,316
+18-24,North,male,Very Good,2024,377
+35-44,West,Female,Good,2025,431
+55-64,South,Female,Good,2023,634
+45-54,South,FEMALE,Very Bad,2023,247
+45-54,East,FEMALE,Average,2025,19 units
+45-54,East,Female,Very Good,2024,977
+35-44,East,FEMALE,Average,2024,875
+35-44,South,,Bad,2023,252
+45-54,East,male,Average,2023,859
+65,West,male,Very Good,2025,895
+65,North,FEMALE,,2023,631
+35-44,South,Female,Very Bad,2024,704
+65,South,Male,Very Good,2024,817
+45-54,North,male,Good,2023,941
+35-44,East,FEMALE,Good,2023,145
+55-64,East,male,Good,2024,945
+45-54,East,male,Very Good,2024,996
+18-24,South,Female,Bad,2025,384
+18-24,West,Male,Average,2025,136
+45-54,East,male,Very Bad,2024,852
+65,East,Male,Good,2024,35
+55-64,,Female,Very Good,2025,853
+45-54,East,FEMALE,Very Good,2023,56
+18-24,East,FEMALE,Very Good,2023,250
+55-64,South,FEMALE,Bad,2024,696
+65,West,Female,Bad,2025,111
+45-54,,male,Very Good,2025,389
+25-34,West,FEMALE,Good,2024,111
+65,East,male,Very Good,2024,292
+25-34,North,FEMALE,Very Good,2025,227
+65,North,Male,Average,2023,138
+55-64,,Male,,2023,610
+25-34,South,male,Good,2025,12
+35-44,South,Female,Very Bad,2024,827
+25-34,North,Male,Good,2023,376
+25-34,East,Male,Good,2024,63
+25-34,West,Male,Very Good,2024,469
+35-44,North,FEMALE,Very Bad,2023,978
+55-64,North,male,Bad,2025,997
+18-24,North,FEMALE,Bad,2024,712
+18-24,West,FEMALE,Very Good,2023,339
+55-64,South,Male,Good,2024,649
+65,East,FEMALE,Very Bad,2025,311
+45-54,West,Male,Very Good,2025,676
+55-64,South,FEMALE,Bad,2023,433
+35-44,West,FEMALE,Bad,2025,107
+35-44,West,male,Average,2024,986
+25-34,,Male,Very Good,2023,105 units
+45-54,North,male,Good,2025,71
+55-64,East,Male,Bad,2024,904
+65,West,Male,Average,2025,329
+35-44,,Female,,2025,503
+25-34,,male,Very Bad,2024,127
+35-44,South,FEMALE,Very Bad,2025,638
+65,North,male,Very Good,2023,289
+65,,male,Average,2023,195
+25-34,West,Male,Good,2025,658
+18-24,,Female,Bad,2024,474
+35-44,South,male,Average,2025,342
+55-64,North,Male,Good,2023,782
+55-64,North,Male,,2024,687
+45-54,West,FEMALE,Bad,2024,230
+55-64,North,male,Bad,2023,300
+65,West,,Very Good,2023,414
+55-64,North,Male,Good,2024,978
+25-34,South,male,Average,2024,132
+18-24,West,FEMALE,Good,2023,399
+55-64,South,male,Very Good,2024,892
+65,North,FEMALE,Very Good,2024,953
+18-24,East,FEMALE,Very Bad,2024,736
+65,West,male,Very Good,2024,31
+35-44,South,FEMALE,Average,2023,457
+18-24,South,FEMALE,Very Bad,2024,546
+18-24,West,male,Average,2023,351
+25-34,North,Male,Very Bad,2025,208
+35-44,East,Female,Good,2023,159
+35-44,,Female,Very Bad,2023,788
+65,North,Female,Bad,2024,782
+55-64,West,male,Average,2023,460
+18-24,West,FEMALE,Average,2024,615
+18-24,,Male,Average,2024,472
+18-24,,male,Average,2023,670
+18-24,West,FEMALE,Very Bad,2025,987
+65,North,FEMALE,Very Bad,2025,202
+35-44,West,Female,Very Good,2024,115
+35-44,North,Female,Very Good,2023,734
+45-54,West,Female,Average,2024,949
+35-44,West,FEMALE,Average,2025,622
+18-24,East,Male,Average,2023,581 units
+65,West,male,Average,2025,882 units
+65,South,male,Very Good,2025,689
+25-34,East,male,Bad,2023,619
+65,North,male,Very Bad,2024,668
+35-44,South,Male,Bad,2025,380
+18-24,East,male,Good,2023,359 units
+45-54,South,Female,Good,2023,89
+35-44,North,Male,Average,2025,144
+55-64,West,Female,Good,2023,861
+65,South,FEMALE,Very Good,2024,383
+65,South,FEMALE,Very Bad,2024,780
+65,West,Female,,2023,326
+45-54,South,male,Very Bad,2024,482
+35-44,West,FEMALE,Good,2023,830
+55-64,South,male,Very Good,2025,502
+35-44,North,Male,Average,2023,791
+25-34,,FEMALE,Very Bad,2023,860
+45-54,North,Female,Bad,2024,962
+18-24,West  ,Male,Bad,2025,392
+25-34,West,Male,Average,2023,38
+35-44,North,male,Good,2023,49
+35-44,West,Female,Bad,2024,640
+18-24,North,Male,Average,2023,865
+25-34,West,Male,Average,2023,318
+18-24,North,Female,Bad,2025,822
+55-64,West,Male,Very Good,2024,621
+55-64,North,Female,Good,2024,449
+18-24,East,Female,Very Bad,2024,201
+65,North,male,Very Good,2025,567
+55-64,North,FEMALE,Bad,2023,660
+45-54,East,male,Very Good,2024,817
+18-24,East,Female,Very Good,2025,762
+35-44,South,Male,Average,2025,356
+65,South,FEMALE,Bad,2025,196
+25-34,North,FEMALE,Very Good,2024,216
+18-24,South,Male,Average,2024,537 units
+45-54,West,male,Very Good,2025,205
+35-44,East,Male,Average,2024,137
+35-44,West,FEMALE,Bad,2024,357
+25-34,West,FEMALE,Average,2025,283
+18-24,West,Male,,2025,852
+25-34,East,male,Very Good,2023,345
+65,East,male,Bad,2025,744
+45-54,South,FEMALE,Average,2024,53
+65,East,,Average,2025,820
+18-24,North,FEMALE,Average,2025,830
+65,South,Male,Good,2025,704
+45-54,North,Female,Very Good,2023,807
+65,East,male,Bad,2025,43
+55-64,South,FEMALE,Average,2024,464
+18-24,South,male,Bad,2024,675
+35-44,South,Male,Very Good,2025,200
+45-54,West,Male,Average,2024,730
+45-54,South,male,Bad,2023,135
+25-34,North,FEMALE,Good,2025,465
+18-24,East,male,Very Good,2025,565
+35-44,East,Female,Good,2024,530
+25-34,North,,Good,2023,819
+45-54,North,male,Very Bad,2025,387
+45-54,South,Male,Very Good,2024,417
+65,West,FEMALE,Bad,2025,85
+25-34,East,Male,Bad,2024,706
+55-64,East,Female,Very Bad,2025,611
+25-34,South,FEMALE,Very Bad,2023,861
+18-24,South,male,Good,2023,340
+65,South,male,Very Bad,2024,876
+18-24,East,Female,Very Bad,2024,138
+65,East,Male,Very Bad,2025,182
+55-64,South,Female,Very Bad,2025,933
+55-64,East,Male,Very Good,2023,56
+65,East,Female,Very Bad,2024,642 units
+65,North,FEMALE,Very Bad,2024,667
+35-44,West,Female,Bad,2024,474
+18-24,North,Female,Bad,2024,505
+45-54,,male,Very Bad,2023,330
+65,East,male,Bad,2023,788
+35-44,North,male,Good,2024,135
+35-44,West,Female,Good,2023,61
+35-44,West,FEMALE,Good,2023,843 units
+35-44,East,Female,Good,2024,537
+45-54,West,male,Bad,2023,102
+45-54,,Female,Good,2025,371
+18-24,North,male,Bad,2025,913
+65,West,,Very Bad,2023,877
+18-24,West,Female,Average,2025,384
+45-54,East,Male,Bad,2023,593
+55-64,South,male,Very Bad,2024,85
+45-54,West,male,Very Bad,2025,635
+18-24,South,Male,Bad,2024,823
+35-44,East,Female,,2025,531
+45-54,,Male,Very Good,2023,740 units
+35-44,West,FEMALE,Good,2025,924
+55-64,South,male,Very Bad,2024,176
+45-54,East,male,Very Bad,2025,555
+45-54,East,FEMALE,Very Good,2024,349
+65,North,FEMALE,Very Bad,2024,825
+65,North,FEMALE,Average,2025,811
+55-64,South,Male,Very Bad,2024,184
+55-64,West,Female,Good,2023,596
+65,North,Female,Very Good,2024,331
+45-54,,FEMALE,Good,2024,523
+55-64,West,Male,Good,2025,222
+55-64,East,FEMALE,Very Bad,2024,331
+25-34,West,male,Very Bad,2024,702
+65,East,FEMALE,Good,2023,295
+55-64,East,Female,Average,2024,731
+25-34,West,male,Bad,2024,583
+65,East,male,Very Good,2025,702
+55-64,West,FEMALE,Average,2023,307
+18-24,East,Male,Average,2024,681
+35-44,West,Female,Good,2025,287
+55-64,East,Female,Very Good,2025,768
+55-64,South,Female,,2025,936
+55-64,South,Female,Very Good,2023,433
+35-44,West,Male,Good,2023,997
+55-64,South,FEMALE,Bad,2024,676
+25-34,East,male,Average,2025,70 units
+18-24,South,Male,,2024,913
+25-34,North,FEMALE,Bad,2023,969
+65,East,Male,Very Good,2024,591
+55-64,North,male,Average,2024,666 units
+55-64,West,Female,Very Bad,2024,289
+25-34,North,male,Good,2025,479
+65,East,Female,Very Good,2025,355
+35-44,,Female,Very Bad,2025,928
+45-54,West,male,Very Good,2024,695
+18-24,South,Female,Bad,2024,968
+25-34,North,male,Bad,2023,467
+35-44,East,male,Very Bad,2025,596
+18-24,East,male,Good,2023,693
+18-24,,male,Good,2024,814
+65,West,,Very Good,2023,414
+65,East,Male,Very Good,2024,591
+35-44,West,FEMALE,Bad,2025,107
+55-64,South,Female,Bad,2024,286
+18-24,East,Male,Average,2024,472
+25-34,West,FEMALE,Average,2023,609
+25-34,West,FEMALE,Good,2024,111
+25-34,North,Female,Average,2023,770
+65,North,Male,Bad,2023,190
+35-44,West,FEMALE,Bad,2025,821
+25-34,North,Male,Very Bad,2024,42
+35-44,South,Female,Very Bad,2024,827
+65,,male,Bad,2025,47
+18-24,,Female,Very Bad,2024,201
+55-64,North,Male,Good,2024,978
+35-44,South,Female,Very Bad,2024,704
+18-24,East,Female,Very Good,2025,762
+25-34,East,FEMALE,Very Bad,2023,860
+65,South,FEMALE,Very Good,2024,383
