@@ -18,6 +18,28 @@ My analysis assesses a potential structural change in Scotland’s lifelong lear
 - Changes in participation by learner category (age, employment status)
 
 The objective is to determine whether sub-degree lifelong learning pathways are declining, and if yes, who is the most affected.
+## Visualisations and Analysis Overview
+The Power BI dashboard includes:
+- Time-series analysis of students, entrants, and qualifiers
+  - by qualification level
+  - by institution type - colleges vs other higher education institutes
+- Percentage change in college enrolments by subject area
+- Percentage change in college enrolments by student category
+  
+Visuals are designed to isolate structural effects rather than short-term effects.
+## Key Patterns and Findings
+HNC/HND contraction: Student numbers, entrants, and qualifiers decline sharply after 2020–21 (~26% in two years), while degree and postgraduate participation remains stable or grows.
+
+
+
+College-led decline: Reductions are concentrated in colleges, the primary providers of vocational and adult learning.
+Postgraduate expansion: Continued growth in Masters provision indicates a shift toward degree-dependent upskilling models.
+
+
+
+Subject-level erosion: Large declines in Business, IT (–31.6%), Education/Training, Personal Care, and Engineering weaken traditional HND progression routes.
+Selective growth: Expansion is limited to policy-aligned areas (e.g. Construction, Languages), suggesting targeted rather than universal lifelong learning.
+Adult learner withdrawal: Strong declines among unemployed, retired, and non-working learners; growth concentrated in school-linked and youth programmes.
 
 
 
