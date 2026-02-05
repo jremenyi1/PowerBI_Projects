@@ -56,7 +56,11 @@ The decreasing number of students in these subjects indicate declining level of 
 Selective growth is limited to policy-aligned areas (e.g. Construction, Languages), suggesting targeted rather than universal lifelong learning.
 
 ### Changes in participation by learner category (age, employment status)
-Adult learner withdrawal: Strong declines among unemployed, retired, and non-working learners; growth concentrated in school-linked and youth programmes.
+Adult learner withdrawal: Strong declines among unemployed, retired, and non-working learners;
+
+<img width="947" height="446" alt="image" src="https://github.com/user-attachments/assets/09b40d1e-3249-4caf-ab0e-652b0512d8a5" />
+
+growth concentrated in school-linked and youth programmes.
 
 
 
