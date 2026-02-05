@@ -60,6 +60,7 @@ Selective growth is limited to policy-aligned areas (e.g. Construction, Language
 
 <img width="947" height="446" alt="image" src="https://github.com/user-attachments/assets/09b40d1e-3249-4caf-ab0e-652b0512d8a5" />
 
+
 - **Increase in School-age students**, growth concentrated in school-linked and youth programmes.
 
 <img width="947" height="450" alt="image" src="https://github.com/user-attachments/assets/bc2f1c0b-5179-4ed4-ae40-850d2d01d63e" />
