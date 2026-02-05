@@ -30,6 +30,7 @@ The dataset initially contained multiple quality issues, including inconsistent 
 - Standardising text case for Region and Gender
 - Fixing mixed data types in the Count column by removing text values and converting to whole numbers
 - Validating final data types to ensure consistency and analytical accuracy
+
 Once the data was cleaned and validated, it was loaded into Power BI for analysis.
 ### Dashboard Design & Visualisation
 I created a two-page interactive Power BI dashboard, focusing on clarity, consistency, and usability. 
@@ -44,8 +45,9 @@ This page supports deeper exploratory analysis:
 - Line chart showing Health Status trends over time
 - Clustered bar chart comparing Regions by Health Status
 - Slicers for Health Status, Region, and Year
+
 All visuals were formatted consistently to improve readability and user experience.
 ## Files in This Repository
-- Original dataset - Clean-Up data task.csv
+- Original dataset - Health_Age_Analysis_Task.csv
 - Power BI dashboard file - Health_Age_Analysis.pbix
 
