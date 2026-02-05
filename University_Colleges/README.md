@@ -51,7 +51,7 @@ Reductions are concentrated in colleges, the primary providers of vocational and
 The decreasing number of students in these subjects indicate declining level of participation in traditional HND progression routes.
 - Increase in participations in colleges in some other areas (e.g. Construction, Languages)
 
-
+<img width="947" height="445" alt="image" src="https://github.com/user-attachments/assets/ffe3d75a-f2b3-4070-be8f-bac250fa4c79" />
 
 Selective growth: Expansion is limited to policy-aligned areas (e.g. Construction, Languages), suggesting targeted rather than universal lifelong learning.
 
