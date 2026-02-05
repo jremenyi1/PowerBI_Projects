@@ -34,7 +34,7 @@ Visuals are designed to isolate structural effects rather than short-term effect
 
 <img width="947" height="540" alt="image" src="https://github.com/user-attachments/assets/eec8e34f-03d6-4fbc-88d9-15e15bd70e9a" />
 
-large increase in participation with paralel of decreaseContinued growth in Masters provision indicates a shift toward degree-dependent upskilling models.
+Large increase in participation Masters provision paralel with decrease in HNC/HND participation indicates a shift toward degree-dependent upskilling models.
 
 College-led decline: Reductions are concentrated in colleges, the primary providers of vocational and adult learning.
 Subject-level erosion: Large declines in Business, IT (–31.6%), Education/Training, Personal Care, and Engineering weaken traditional HND progression routes.
