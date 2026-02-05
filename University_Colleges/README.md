@@ -28,15 +28,15 @@ The Power BI dashboard includes:
   
 Visuals are designed to isolate structural effects rather than short-term effects.
 ## Key Patterns and Findings
-HNC/HND contraction: Student numbers, entrants, and qualifiers decline sharply after 2020–21 (~26% in two years), while degree and postgraduate participation remains stable or grows.
+- HNC/HND - decrease in student numbers, entrant numbers, and qualifier number after 2020–21 (~26% in two years)
+- Degree - participation remains stable or grows
+- Postgraduate - continous increase
 
+<img width="947" height="540" alt="image" src="https://github.com/user-attachments/assets/eec8e34f-03d6-4fbc-88d9-15e15bd70e9a" />
 
+large increase in participation with paralel of decreaseContinued growth in Masters provision indicates a shift toward degree-dependent upskilling models.
 
 College-led decline: Reductions are concentrated in colleges, the primary providers of vocational and adult learning.
-Postgraduate expansion: Continued growth in Masters provision indicates a shift toward degree-dependent upskilling models.
-
-
-
 Subject-level erosion: Large declines in Business, IT (–31.6%), Education/Training, Personal Care, and Engineering weaken traditional HND progression routes.
 Selective growth: Expansion is limited to policy-aligned areas (e.g. Construction, Languages), suggesting targeted rather than universal lifelong learning.
 Adult learner withdrawal: Strong declines among unemployed, retired, and non-working learners; growth concentrated in school-linked and youth programmes.
