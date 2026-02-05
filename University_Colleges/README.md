@@ -85,6 +85,6 @@ files with raw data - file name:
 - Higher Education Students and Qualifiers.xlsx
 
 Power BI files - Interactive visualisations:
-- Scottish_HE_week12_submission.pbix.
-- 
+- Scottish_Higher_Education.pbix
+- College_statistics.pbix
 
