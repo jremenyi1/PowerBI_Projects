@@ -37,6 +37,9 @@ Visuals are designed to isolate structural effects rather than short-term effect
 Large increase in participation of Masters provision paralel with decrease in HNC/HND participation indicates a shift toward degree-dependent upskilling models.
 
 College-led decline: Reductions are concentrated in colleges, the primary providers of vocational and adult learning.
+
+<img width="947" height="469" alt="image" src="https://github.com/user-attachments/assets/a12c6789-ab79-4ef6-9816-0824272d2605" />
+
 Subject-level erosion: Large declines in Business, IT (–31.6%), Education/Training, Personal Care, and Engineering weaken traditional HND progression routes.
 Selective growth: Expansion is limited to policy-aligned areas (e.g. Construction, Languages), suggesting targeted rather than universal lifelong learning.
 Adult learner withdrawal: Strong declines among unemployed, retired, and non-working learners; growth concentrated in school-linked and youth programmes.
