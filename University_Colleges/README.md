@@ -10,6 +10,14 @@ For this project, I analysed selected sheets of two Scottish Government datasets
 - College Statistics Tables (2014–15 to 2023–24):
    - Table 6 (enrolments by subject area) and
    - Table 13 (enrolments by student category).
+## Aims
+My analysis assesses a potential structural change in Scotland’s lifelong learning (LLL) system, with focusing on:
+- Trends in HNC/HND participation
+- Differences between college and university provision
+- Subject-level shifts in vocational and digital education
+- Changes in participation by learner category (age, employment status)
+
+The objective is to determine whether sub-degree lifelong learning pathways are declining, and if yes, who is the most affected.
 
 
 
