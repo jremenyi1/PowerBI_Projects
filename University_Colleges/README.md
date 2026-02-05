@@ -29,7 +29,7 @@ The Power BI dashboard includes:
 Visuals are designed to isolate structural effects rather than short-term effects.
 ## Key Patterns and Findings
 ### Trends in HNC/HND participation
-- HNC/HND - decrease in student numbers, entrant numbers, and qualifier number after 2020–21 (~26% in two years)
+- **HNC/HND - decrease** in student numbers, entrant numbers, and qualifier number after 2020–21 (~26% in two years)
 - Degree - participation remains stable or grows
 - Taught Postgraduate (Masters) - continous increase
 
@@ -37,30 +37,30 @@ Visuals are designed to isolate structural effects rather than short-term effect
 
 Large increase in participation of Masters provision paralel with decrease in HNC/HND participation indicates a shift toward degree-dependent upskilling models.
 ### Differences between college and university provision
-- Colleges - decrease in the number of entrants
+- **Colleges - decrease in the number of entrants**
 - Higher Education Institutes - stable or growth in the number of entrants
 
 <img width="947" height="469" alt="image" src="https://github.com/user-attachments/assets/a12c6789-ab79-4ef6-9816-0824272d2605" />
 
 Reductions are concentrated in colleges, the primary providers of vocational and adult learning.
 ### Subject-level shifts in vocational and digital education
-- Large decrease in the participation in colleges in Business, IT (–31.6%), Education/Training, Personal Care, and Engineering subjects.
+- **Large decrease** in the participation in colleges in Business, **IT** (–31.6%), **Education/Training**, Personal Care, and Engineering subjects.
 
 <img width="947" height="445" alt="image" src="https://github.com/user-attachments/assets/2aa09b81-a456-4b12-8cf8-bac7ff7fd2f4" />
 
 The decreasing number of students in these subjects indicate declining level of participation in traditional HND progression routes.
-- Increase in participations in colleges in some other areas (e.g. Construction, Languages)
+- **Increase** in participations in colleges in some other areas (e.g. **Construction, Languages**)
 
 <img width="947" height="445" alt="image" src="https://github.com/user-attachments/assets/ffe3d75a-f2b3-4070-be8f-bac250fa4c79" />
 
 Selective growth is limited to policy-aligned areas (e.g. Construction, Languages), suggesting targeted rather than universal lifelong learning.
 
 ### Changes in participation by learner category (age, employment status)
-Adult learner withdrawal: Strong declines among unemployed, retired, and non-working learners;
+- **Decrease in Adult learner participations**, mainly among unemployed, retired, and non-working learners
 
 <img width="947" height="446" alt="image" src="https://github.com/user-attachments/assets/09b40d1e-3249-4caf-ab0e-652b0512d8a5" />
 
-growth concentrated in school-linked and youth programmes.
+- **Increase in School-age students**, growth concentrated in school-linked and youth programmes.
 
 <img width="947" height="450" alt="image" src="https://github.com/user-attachments/assets/bc2f1c0b-5179-4ed4-ae40-850d2d01d63e" />
 
