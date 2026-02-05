@@ -44,11 +44,14 @@ Large increase in participation of Masters provision paralel with decrease in HN
 
 Reductions are concentrated in colleges, the primary providers of vocational and adult learning.
 ### Subject-level shifts in vocational and digital education
-- Large decrease in Business, IT (–31.6%), Education/Training, Personal Care, and Engineering
+- Large decrease in the participation in colleges in Business, IT (–31.6%), Education/Training, Personal Care, and Engineering subjects.
 
-<img width="947" height="445" alt="image" src="https://github.com/user-attachments/assets/3f00d447-7098-4dc0-8000-e9fa677c01c5" />
+<img width="947" height="445" alt="image" src="https://github.com/user-attachments/assets/2aa09b81-a456-4b12-8cf8-bac7ff7fd2f4" />
 
 The decreasing number of students in these subjects indicate declining level of participation in traditional HND progression routes.
+- Increase in participations in colleges in some other areas (e.g. Construction, Languages)
+
+
 
 Selective growth: Expansion is limited to policy-aligned areas (e.g. Construction, Languages), suggesting targeted rather than universal lifelong learning.
 
