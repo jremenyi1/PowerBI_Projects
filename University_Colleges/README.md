@@ -62,8 +62,7 @@ Adult learner withdrawal: Strong declines among unemployed, retired, and non-wor
 
 growth concentrated in school-linked and youth programmes.
 
-
-
+<img width="947" height="450" alt="image" src="https://github.com/user-attachments/assets/bc2f1c0b-5179-4ed4-ae40-850d2d01d63e" />
 
 ## Files in the Repository
 
