@@ -120,7 +120,7 @@ The figures below illustrate the main analytical findings. Interactive versions 
 
 *Dundee City consistently records higher alcohol-related hospitalisation rates than the Scottish average.*
 
-### Council ranking by latest-year gap
+### Council ranking by latest-year
 
 ![Council ranking by excess rate relative to Scotland](figures/ARHS_Figure6_council_ranking.jpg)
 *In the most recent year, Dundee City ranks among the councils with the highest excess rates relative to Scotland.*
