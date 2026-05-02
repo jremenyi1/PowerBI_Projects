@@ -255,14 +255,23 @@ This repository is provided for educational and analytical purposes. Please chec
 
 ## Files in the repository
 
-- raw data - TPODundeeData.csv
-- cleaned data - cleanedTPODataDundee.csv
-- jupyter notebook - Dundee_TPO_Visualisation_Automation.ipynb
-- output files 
-   - TPO_trends_Original data.pdf and TPO_trends_Original data.jpg
-   - TPO_trends_Filtered data.pdf and TPO_trends_Filtered data.jpg
-   - TPO_area_bar_Original Data.pdf and TPO_area_bar_Original Data.jpg
-   - TPO_area_bar_Filtered Data.pdf and TPO_area_bar_Filtered Data.jpg
-   - TPO_area_box_Original Data.pdf and TPO_area_box_Original Data.jpg
-   - TPO_area_box_Filtered Data.pdf and TPO_area_box_Filtered Data.jpg
+- raw data - data/raw/
+      - ARHS_byCouncilArea.csv
+- cleaned data
+      - data/raw/ARHS_byCouncilArea_clean.csv
+- jupyter notebooks - notebooks/
+      - 01_ARHS_byCouncilArea_cleaning.ipynb
+      - 02_ARHS_byCouncilArea_exploratory_analysis.ipynb
+      - 03_ARHS_byCouncilArea_inequality_analysis.ipynb
+- output files  - figures/
+   - ARHS_Figure1_national_trend.jpg
+   - ARHS_Figure2_dundee_vs_scotland.jpg
+   - ARHS_Figure3_mh_conditions.jpg
+   - ARHS_Figure4_condition_dumbbell.jpg
+   - ARHS_Figure5_diff_over_time.jpg
+   - ARHS_Figure6_council_ranking.jpg
+   - ARHS_Figure7_mh_ranking.jpg
+- power bi files - power_bi/
+    - ARHS_byCouncilArea_dashbord.pbix
+    - ARHS_dashbord_PowerBI.pdf
 
