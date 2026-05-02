@@ -147,23 +147,15 @@ The figures below illustrate the main analytical findings. Interactive versions 
 
 The Power BI dashboard provides an **interactive, policy-facing view** of the analysis produced in Python. It is designed to allow users to explore trends, comparisons, and inequalities without re-running code.
 
-The interactive dashboard is available here:  
+**The interactive dashboard is available here:**  
 
-👉 https://app.powerbi.com/view?r=...
+- [https://app.powerbi.com/view?r=...](https://app.powerbi.com/view?r=eyJrIjoiM2UxNGM3YjItNDBmNS00NGI4LTg5MTMtZTNlMDJjZmVlOGVkIiwidCI6IjZjODBiOWI3LTM4ZTktNDNmOS05YTllLWM3NTVhNTg5MzllNyJ9)
 
 The dashboard:
 
 - Uses **only** the cleaned dataset produced by the Python pipeline
 - Mirrors the same calculations and definitions used in the notebooks
 - Allows users to explore trends, comparisons, and inequalities without running code
-
----
-
-## Interactive Power BI Dashboard
-
-An interactive dashboard is available here:
-
-[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiM2UxNGM3YjItNDBmNS00NGI4LTg5MTMtZTNlMDJjZmVlOGVkIiwidCI6IjZjODBiOWI3LTM4ZTktNDNmOS05YTllLWM3NTVhNTg5MzllNyJ9)
 
 ---
 
