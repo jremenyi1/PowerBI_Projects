@@ -137,6 +137,9 @@ The dashboard:
 - Mirrors the same calculations and definitions used in the notebooks
 - Allows users to explore trends, comparisons, and inequalities without running code
 
+
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow)]([YOUR_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiM2UxNGM3YjItNDBmNS00NGI4LTg5MTMtZTNlMDJjZmVlOGVkIiwidCI6IjZjODBiOWI3LTM4ZTktNDNmOS05YTllLWM3NTVhNTg5MzllNyJ9))
+
 ---
 
 ### Dashboard structure and visuals
