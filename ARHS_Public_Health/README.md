@@ -303,9 +303,9 @@ This repository is provided for educational and analytical purposes. Please chec
 - cleaned data
   - data/raw/ARHS_byCouncilArea_clean.csv
 - jupyter notebooks - notebooks/
-      - 01_ARHS_byCouncilArea_cleaning.ipynb
-      - 02_ARHS_byCouncilArea_exploratory_analysis.ipynb
-      - 03_ARHS_byCouncilArea_inequality_analysis.ipynb
+  - 01_ARHS_byCouncilArea_cleaning.ipynb
+  - 02_ARHS_byCouncilArea_exploratory_analysis.ipynb
+  - 03_ARHS_byCouncilArea_inequality_analysis.ipynb
 - output files  - figures/
    - ARHS_Figure1_national_trend.jpg
    - ARHS_Figure2_dundee_vs_scotland.jpg
