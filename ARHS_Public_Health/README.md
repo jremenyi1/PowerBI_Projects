@@ -125,6 +125,8 @@ The figures below illustrate the main analytical findings. Interactive versions 
 ![Council ranking by excess rate relative to Scotland](figures/ARHS_Figure6_council_ranking.jpg)
 *In the most recent year, Dundee City ranks among the councils with the highest excess rates relative to Scotland.*
 
+---
+
 # Power BI dashboard
 
 The Power BI dashboard provides an **interactive, policy-facing view** of the analysis produced in Python. It is designed to allow users to explore trends, comparisons, and inequalities without re-running code.
