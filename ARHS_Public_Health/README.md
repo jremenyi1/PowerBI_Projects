@@ -94,7 +94,7 @@ This separation keeps descriptive analysis and inequality analysis conceptually 
 
 ## Key insights
 
-- Alcohol‑related hospitalisation rates vary substantially between council areas and over time.
+- Alcohol‑related hospitalisation rates vary substantially over time and between council areas.
 - Dundee City consistently records higher alcohol-related hospitalisation rates than the Scottish average.
 - The gap between Dundee City and Scotland is persistent rather than driven by a single year.
 - Mental and behavioural disorders due to alcohol account for a large share of the excess burden in Dundee City.
@@ -103,6 +103,22 @@ This separation keeps descriptive analysis and inequality analysis conceptually 
 All findings are **descriptive** and intended to highlight patterns rather than explain causes.
 
 ---
+
+## Selected visual outputs
+
+The figures below illustrate the main analytical findings. Interactive versions are available in the Power BI dashboard.
+
+### National trend in Scotland
+![Alcohol-related hospitalisation rates in Scotland over time](figures/ARHS_Figure1_national_trend.jpg)
+*Alcohol-related hospitalisation rates in Scotland show marked changes over time.*
+
+### Dundee City vs Scotland
+![Dundee City compared with Scotland over time](assets/fig02_dundee_vs_scotland.png)
+*Dundee City consistently records higher alcohol-related hospitalisation rates than the Scottish average.*
+
+### Council ranking by latest-year gap
+![Council ranking by excess rate relative to Scotland](assets/fig03_council_ranking_latest_year.png)
+*In the most recent year, Dundee City ranks among the councils with the highest excess rates relative to Scotland.*
 
 # Power BI dashboard
 
