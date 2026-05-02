@@ -300,8 +300,8 @@ This repository is provided for educational and analytical purposes. Please chec
 
 - raw data - data/raw/
   - ARHS_byCouncilArea.csv
-- cleaned data
-  - data/raw/ARHS_byCouncilArea_clean.csv
+- cleaned data - data/raw/
+  - ARHS_byCouncilArea_clean.csv
 - jupyter notebooks - notebooks/
   - 01_ARHS_byCouncilArea_cleaning.ipynb
   - 02_ARHS_byCouncilArea_exploratory_analysis.ipynb
