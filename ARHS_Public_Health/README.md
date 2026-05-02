@@ -34,6 +34,8 @@ Rates are reported as **European Age‑Standardised Rates (EASR) per 100,000 pop
 
 Only minimal cleaning is performed in order to preserve the original structure and meaning of the data.
 
+---
+
 ## Tools used
 
 This project combines **Python-based analysis** with a **Power BI dashboard**. Python is used for data cleaning, validation, and analytical logic, while Power BI is used for interactive visualisation and stakeholder-facing reporting.
