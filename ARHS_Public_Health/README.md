@@ -12,8 +12,7 @@ This project analyses **alcohol‑related hospital statistics (ARHS)** using rou
 
 ### Alcohol-related hospitalisation gap: Dundee City vs Scotland
 
-This figure shows the difference in European age-standardised rates  
-(Dundee City minus Scotland). Values above zero indicate excess burden in Dundee.
+This figure shows the difference in European Age-Standardised Rates (Dundee City minus Scotland). Values above zero indicate excess burden in Dundee.
 
 ![Dundee vs Scotland gap over time](figures/ARHS_Figure5_diff_over_time.jpg)
 
