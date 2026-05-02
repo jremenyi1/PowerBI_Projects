@@ -1,5 +1,7 @@
 # Alcohol‑Related Hospital Statistics in Scotland (ARHS)
 
+[![View Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiM2UxNGM3YjItNDBmNS00NGI4LTg5MTMtZTNlMDJjZmVlOGVkIiwidCI6IjZjODBiOWI3LTM4ZTktNDNmOS05YTllLWM3NTVhNTg5MzllNyJ9)
+
 ## Background
 
 Alcohol‑related harm remains a major public health issue in Scotland, with substantial variation between local authority areas. Hospital admission data provide an important lens for examining long‑term trends and geographic inequalities in alcohol‑related harm.
