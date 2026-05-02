@@ -48,3 +48,221 @@ This project combines **Python-based analysis** with a **Power BI dashboard**. P
 - *(Optional extension)* ArcGIS for spatial visualisation
 
 The two components are deliberately separated but fully aligned: **Power BI only consumes the cleaned dataset produced by the Python pipeline**.
+
+---
+
+## Analysis process
+
+### 1. Data cleaning
+
+The first notebook prepares a clean, analysis‑ready dataset:
+
+- Standardises column names and data types
+- Converts coded fields into readable labels
+- Extracts numeric financial years
+- Checks for missing values and duplicate records
+- Drops columns which are not needed for downstream analysis
+
+The output is a single cleaned CSV file, ARHS_byCouncilArea_clean.csv, used by all downstream analysis and visualisation.
+
+---
+
+### 2. Exploratory data analysis (EDA)
+
+The second notebook focuses on describing patterns in the data:
+
+- National time‑series trends for Scotland
+- Comparisons between Dundee City and the national average
+- Condition‑specific trends over time
+- Identifies conditions contributing most to observed gaps
+
+This stage is **purely descriptive** and does not frame results as inequalities.
+
+---
+
+### 3. Inequality analysis
+
+The third notebook explicitly examines inequality relative to Scotland:
+
+- Calculates differences between local authority rates and the national average
+- Ranks councils by excess or deficit burden
+- Identify conditions driving inequality
+
+This separation keeps descriptive analysis and inequality analysis conceptually clear.
+
+---
+
+## Key insights
+
+- Alcohol‑related hospitalisation rates vary substantially between council areas and over time.
+- Dundee City consistently records higher alcohol-related hospitalisation rates than the Scottish average.
+- The gap between Dundee City and Scotland is persistent rather than driven by a single year.
+- Mental and behavioural disorders due to alcohol account for a large share of the excess burden in Dundee City.
+- In the most recent year of data, Dundee City ranks among the councils with the highest excess alcohol-related hospitalisation rates relative to Scotland.
+
+All findings are **descriptive** and intended to highlight patterns rather than explain causes.
+
+---
+
+# Power BI dashboard
+
+The Power BI dashboard provides an **interactive, policy-facing view** of the analysis produced in Python. It is designed to allow users to explore trends, comparisons, and inequalities without re-running code.
+
+The dashboard:
+
+- Uses **only** the cleaned dataset produced by the Python pipeline
+- Mirrors the same calculations and definitions used in the notebooks
+- Allows users to explore trends, comparisons, and inequalities without running code
+
+---
+
+### Dashboard structure and visuals
+
+The dashboard is organised into a small number of focused pages, each answering a specific analytical question.
+
+**Page 1 – National trend (Figure 1)**  
+
+Shows how alcohol-related hospitalisation rates have changed over time for Scotland as a whole.
+
+- Line chart of European Age-Standardised Rates (EASR) by financial year
+- Locked to Scotland
+- Optional slicers allow users to switch condition categories, financial yeras, and SMR type
+
+Purpose: establish national context and long-term trends.
+
+---
+
+**Page 2 – Dundee City vs Scotland (Figure 2)**  
+
+Compares trends in Dundee City with the national average.
+
+- Two-line time series (Dundee City vs Scotland)
+- Combined SMR, all alcohol conditions
+- Consistent colour use (Dundee City highlighted, Scotland as reference)
+
+Purpose: show whether Dundee follows or diverges from national patterns.
+
+---
+
+**Page 3 – Mental and behavioural disorders (Figure 3)**  
+
+Repeats the Dundee–Scotland comparison for mental and behavioural disorders due to alcohol.
+
+- Identical layout to Page 2
+- Focuses on a clinically important subgroup
+
+Purpose: assess whether inequalities are driven by specific alcohol-related conditions.
+
+---
+
+**Page 4 – Dundee minus Scotland gap over time (Figure 4)**  
+
+Displays the difference in rates between Dundee City and Scotland as a single time series.
+
+- Line chart of (Dundee EASR – Scotland EASR)
+- Zero reference line indicates parity
+- Positive values indicate excess burden in Dundee
+
+Purpose: isolate inequality directly, without distraction from absolute trends.
+
+---
+
+**Page 5 – Council ranking by rate difference in the most recent year  (Figure 5)**  
+
+Ranks all council areas by their difference from the Scottish average in the most recent year.
+
+- Horizontal bar chart of excess or deficit relative to Scotland
+- Scotland shown as a zero reference baseline
+- Dundee City highlighted in red for emphasis
+- Tayside area cities highlighted in blue
+
+Purpose: identify where alcohol-related hospitalisation inequalities are currently greatest.
+
+---
+
+### Visual design principles
+
+- Consistent colour logic across pages (highlight, reference, neutral)
+- Minimal transformations in Power BI; logic remains transparent
+- Clear titles and subtitles to support non-technical audiences
+- Separation of descriptive trends and inequality-focused views
+
+---
+
+### Relationship to Python analysis
+
+The Power BI dashboard:
+
+- Replaces Python plotting with interactive visuals
+- Reuses the same grouping, filtering, and averaging logic
+- Does not duplicate data cleaning or aggregation
+
+This ensures that results shown in Power BI are **fully consistent** with the Python notebooks.
+
+---
+
+## How to run the project
+
+### Requirements
+
+- Python 3.9+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- Jupyter Notebook or JupyterLab
+
+### Running locally
+
+1. Clone the repository
+2. Place the raw CSV file in:
+   ```
+   data/raw/ARHS_byCouncilArea.csv
+   ```
+3. Run the notebooks in order:
+   1. `01_ARHS_byCouncilArea_cleaning.ipynb`
+   2. `02_ARHS_byCouncilArea_exploratory_analysis.ipynb`
+   3. `03_ARHS_byCouncilArea_inequality_analysis.ipynb`
+
+Figures will be saved to the `figures/` directory.
+
+---
+
+## Limitations
+
+- Analysis is based on aggregated council‑level data
+- No individual‑level adjustment beyond age standardisation
+- Results should be interpreted as comparative, not causal
+
+---
+
+## Future analysis and extensions
+
+Possible extensions include:
+
+- Mapping rates and inequalities using council boundary data
+- Examining changes before and after major alcohol policy interventions
+- Deeper condition‑specific analyses
+- Automating data refresh and dashboard updates
+
+---
+
+# Licence
+
+This repository is provided for educational and analytical purposes. Please check the original data provider’s licence before reusing the raw data.
+
+---
+
+## Files in the repository
+
+- raw data - TPODundeeData.csv
+- cleaned data - cleanedTPODataDundee.csv
+- jupyter notebook - Dundee_TPO_Visualisation_Automation.ipynb
+- output files 
+   - TPO_trends_Original data.pdf and TPO_trends_Original data.jpg
+   - TPO_trends_Filtered data.pdf and TPO_trends_Filtered data.jpg
+   - TPO_area_bar_Original Data.pdf and TPO_area_bar_Original Data.jpg
+   - TPO_area_bar_Filtered Data.pdf and TPO_area_bar_Filtered Data.jpg
+   - TPO_area_box_Original Data.pdf and TPO_area_box_Original Data.jpg
+   - TPO_area_box_Filtered Data.pdf and TPO_area_box_Filtered Data.jpg
+
