@@ -19,6 +19,8 @@ The aims of this project are to:
 
 The analysis is **descriptive** and does not attempt to infer causality.
 
+---
+
 ## Data
 
 The raw dataset, ARHS_byCouncilArea.csv, comes from publicly available Scottish health statistics and reports annual alcohol‑related hospital statistics between 1997 and 2024 and is broken down by:
