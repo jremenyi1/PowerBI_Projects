@@ -96,17 +96,19 @@ This project combines **Python-based analysis** with a **Power BI dashboard**. P
 
 ## Analysis process
 
-### 1. Data cleaning
+### 1. Data preparation (Python)
 
 The first notebook prepares a clean, analysis‑ready dataset:
 
+- Loads the raw CSV data and checks data types
+- Removes unused quality-flag columns
 - Standardises column names and data types
 - Converts coded fields into readable labels
 - Extracts numeric financial years
 - Checks for missing values and duplicate records
-- Drops columns which are not needed for downstream analysis
+- Verifies that no rows were unintentionally dropped
 
-The output is a single cleaned CSV file, ARHS_byCouncilArea_clean.csv, used by all downstream analysis and visualisation.
+The output is a single cleaned CSV file, `ARHS_byCouncilArea_clean.csv`, used by all downstream analysis and visualisation.
 
 ---
 
