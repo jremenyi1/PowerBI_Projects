@@ -39,7 +39,7 @@ What it does:
 Why it exists:
 
 - Keeps the logic simple and transparent
-- Matches the Python `groupby + mean` calculation exactly
+- Matches the Python `groupby().mean()` calculation exactly
 
 ---
 
