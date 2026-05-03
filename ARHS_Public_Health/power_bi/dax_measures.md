@@ -27,7 +27,7 @@ Power BI does not modify these fields.
 
 ## Core measures
 
-### EASR_Rate
+`EASR_Rate`
 
 This is the base measure used across the dashboard.
 
@@ -43,7 +43,7 @@ Why it exists:
 
 ---
 
-### Scotland_EASR_Rate
+`Scotland_EASR_Rate`
 
 This measure calculates the **national average for Scotland**.
 
@@ -59,7 +59,7 @@ Why it exists:
 
 ---
 
-### EASR_Diff_vs_Scotland
+`EASR_Diff_vs_Scotland`
 
 This is the main inequality measure.
 
@@ -84,7 +84,7 @@ Why it exists:
 
 ## Latest-year measures
 
-### LatestYear_EASR_Rate
+`LatestYear_EASR_Rate`
 
 This measure returns the **EASR for the most recent year** in the dataset.
 
@@ -99,7 +99,7 @@ Why it exists:
 
 ---
 
-### LatestYear_EASR_Diff_vs_Scotland
+`LatestYear_EASR_Diff_vs_Scotland`
 
 This measure calculates the **latest-year inequality**.
 
