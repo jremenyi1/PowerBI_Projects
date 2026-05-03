@@ -84,14 +84,13 @@ This file is produced in Python and used directly in Power BI.
 
 This project combines **Python-based analysis** with a **Power BI dashboard**. Python is used for data cleaning, validation, and analytical logic, while Power BI is used for interactive visualisation and stakeholder-facing reporting.
 
-- **Jupyter notebooks** for reproducible workflows
-- **Python libraries**
-  - **pandas, numpy** for data cleaning and analysis
-  - **matplotlib, seaborn** for exploratory figures
-- **Power BI** for interactive dashboards
+- **Python** for data cleaning, transformation, and validation
+  - **pandas** for filtering, grouping, and aggregation
+  - **matplotlib / seaborn** for exploratory plots
+  - **Jupyter Notebook** for reproducibility
+- **Power BI Desktop** for interactive visualisation
+- **DAX** for measures that mirror Python logic
 - *(Optional extension)* ArcGIS for spatial visualisation
-
-The two components are deliberately separated but fully aligned: **Power BI only consumes the cleaned dataset produced by the Python pipeline**.
 
 ---
 
