@@ -1,5 +1,9 @@
 # Alcohol‑Related Hospital Statistics in Scotland (ARHS)
 
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Public Health](https://img.shields.io/badge/Domain-Public%20Health-2E8B57)
+
 ## At a glance
 
 This project analyses alcohol-related hospital stay rates across Scottish council areas.
