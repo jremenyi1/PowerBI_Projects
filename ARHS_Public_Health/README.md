@@ -6,7 +6,9 @@ This project analyses alcohol-related hospital stay rates across Scottish counci
 It combines reproducible Python analysis with an interactive Power BI dashboard.
 
 **Tools:** Python, pandas, Jupyter, Power BI, DAX
+
 **Focus:** Time trends, local–national comparison, health inequalities
+
 **Outputs:** Clean dataset, analysis notebooks, interactive dashboard
 
 ## Project outputs
