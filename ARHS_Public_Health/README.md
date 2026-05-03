@@ -1,6 +1,25 @@
 # Alcohol‑Related Hospital Statistics in Scotland (ARHS)
 
-[![View Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiM2UxNGM3YjItNDBmNS00NGI4LTg5MTMtZTNlMDJjZmVlOGVkIiwidCI6IjZjODBiOWI3LTM4ZTktNDNmOS05YTllLWM3NTVhNTg5MzllNyJ9)
+## At a glance
+
+This project analyses alcohol-related hospital stay rates across Scottish council areas.
+It combines reproducible Python analysis with an interactive Power BI dashboard.
+
+**Tools:** Python, pandas, Jupyter, Power BI, DAX
+
+**Focus:** Time trends, local–national comparison, health inequalities
+
+**Outputs:** Clean dataset, analysis notebooks, interactive dashboard
+
+## Project outputs
+
+- 📊 **Interactive Power BI dashboard:** [![View Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiM2UxNGM3YjItNDBmNS00NGI4LTg5MTMtZTNlMDJjZmVlOGVkIiwidCI6IjZjODBiOWI3LTM4ZTktNDNmOS05YTllLWM3NTVhNTg5MzllNyJ9)
+- 
+- 📓 **Python analysis notebooks:** `/notebooks`
+- 
+- 📁 **Cleaned dataset:** `ARHS_byCouncilArea_clean.csv`
+
+---
 
 ## Background
 
