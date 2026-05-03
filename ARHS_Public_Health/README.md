@@ -13,7 +13,8 @@ It combines reproducible Python analysis with an interactive Power BI dashboard.
 
 ## Project outputs
 
-**Quick links:** 
+**Quick links:**
+
 [![View Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiM2UxNGM3YjItNDBmNS00NGI4LTg5MTMtZTNlMDJjZmVlOGVkIiwidCI6IjZjODBiOWI3LTM4ZTktNDNmOS05YTllLWM3NTVhNTg5MzllNyJ9)
 
 [![Python Notebooks](https://img.shields.io/badge/Open-Python%20Notebooks-3776AB?logo=python&logoColor=white)](./notebooks)
