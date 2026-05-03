@@ -65,16 +65,18 @@ The analysis is **descriptive** and does not attempt to infer causality.
 
 ## Data
 
-The raw dataset, ARHS_byCouncilArea.csv, comes from publicly available Scottish health statistics and reports annual alcohol‑related hospital statistics between 1997 and 2024 and is broken down by:
+The raw dataset, `ARHS_byCouncilArea.csv`, comes from publicly available Scottish health statistics and reports annual alcohol‑related hospital statistics between 1997 and 2024 and is broken down by:
 
 - Council area (local authority)
 - Financial year
-- Alcohol‑related condition category
-- Measure type (e.g. stays, patients)
+- Condition (Alcohol‑related condition)
+- SMR type
 
 Rates are reported as **European Age‑Standardised Rates (EASR) per 100,000 population**, allowing comparison across areas and over time.
 
-Only minimal cleaning is performed in order to preserve the original structure and meaning of the data.
+All analysis is based on a single cleaned dataset: `ARHS_byCouncilArea_clean.csv`.
+
+This file is produced in Python and used directly in Power BI.
 
 ---
 
