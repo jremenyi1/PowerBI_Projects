@@ -29,9 +29,9 @@ It combines reproducible Python analysis with an interactive Power BI dashboard.
 
 ## Background
 
-Alcohol‑related harm remains a major public health issue in Scotland, with substantial variation between local authority areas. Hospital admission data provide an important lens for examining long‑term trends and geographic inequalities in alcohol‑related harm.
+Alcohol-related hospital admissions remain a major public health issue in Scotland. Rates vary over time and differ widely between council areas. Understanding these patterns is essential for identifying persistent inequalities and targeting prevention efforts.
 
-This project analyses **alcohol‑related hospital statistics (ARHS)** using routinely published Scottish health data. The focus is on **how alcohol-related hospitalisation rates change over time**, **how local authorities compare with the national average**, and **where inequalities are most pronounced**, with Dundee City used as a case study.
+This project combines Python and Power BI. Python is used to clean the data and validate trends. Power BI is used to present the same findings in an interactive and accessible way. The two parts share the same logic and draw from the same cleaned dataset.
 
 ---
 
@@ -51,12 +51,13 @@ inequality rather than short-term fluctuation.
 
 ## Aim
 
-The aims of this project are to:
+The aim of this work was to:
 
-- Clean and standardise a **real‑world public health dataset** in a transparent, reproducible way
-- Explore national and local trends in alcohol‑related hospitalisation rates
-- Quantify inequalities between council areas and the Scottish average
-- Present results clearly using both static and interactive visualisations
+- Clean and standardise a public health dataset
+- Explore national and local trends in alcohol-related hospitalisation
+- Compare Dundee City with the Scottish average
+- Make inequality explicit by measuring differences relative to Scotland
+- Present results in a clear, reproducible, and interactive format
 
 The analysis is **descriptive** and does not attempt to infer causality.
 
